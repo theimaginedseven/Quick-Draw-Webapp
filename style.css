@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+}
+
+#score{
+    font-size: 35px;
+    float:left;
+    font-family: 'Sono', sans-serif;
+}
+
+#timer{
+    font-size: 35px;
+    float: right;
+    position: absolute;
+    left: 85%;
+    font-family: 'Sono', sans-serif;
+}
+
+#sketch_name {
+    color: lime;
+}
